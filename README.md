@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juustesout
-- 👀 I’m interested in token business development
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on BSC/PCS token business projects
+- 👀 I’m interested in JavaScript and React
+- 🌱 I’m currently learning React
 - 📫 How to reach me : admin@juust.org
 
 <!---
